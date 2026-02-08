@@ -1,10 +1,12 @@
 # C Programming Practice
 
-This repository contains C programs written for learning and practice.
+This repository is created for learning and practice purposes.
+Programs are based on standard C examples, rewritten and organized to understand core concepts.
 
 ## Topics Covered
 - Basics of C
-- Loops & Conditions
+- Conditional Statement
+- Loops 
 - Arrays & Strings
 - Pointers
 - Functions
