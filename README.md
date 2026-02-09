@@ -7,7 +7,8 @@ Programs are based on standard C examples, rewritten and organized to understand
 - Basics of C
 - Conditional Statement
 - Loops 
-- Arrays & Strings
+- Arrays 
+- Strings
 - Pointers
 - Functions
 
