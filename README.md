@@ -11,6 +11,9 @@ Programs are based on standard C examples, rewritten and organized to understand
 - Strings
 - Pointers
 - Functions
+- Structures
+- Unions
+- File_Handling
 
 ## How to Run
 ```bash
