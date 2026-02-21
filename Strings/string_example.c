@@ -35,7 +35,6 @@ int main(void)
         // Ask the user whether to continue or terminate the program
         printf("\nDo you want to continue (y/n): ");
         scanf(" %c", &choice);
-
     } while(choice == 'Y' || choice == 'y'); // Loop continues for Y or y
 
     
