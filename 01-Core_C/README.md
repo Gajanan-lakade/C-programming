@@ -1,4 +1,4 @@
-# C Programming Practice
+# Core C
 
 This repository is created for learning and practice purposes.
 Programs are based on standard C examples, rewritten and organized to understand core concepts.
